@@ -4,3 +4,7 @@ B) Script 2
 
 using sh : programs are runs different, 2 pIDs will be there.we cant assignnscript 1 variables to script 2.. permission are not there
 using soirce single PID, and we can assignnvarianle valuesbtonscript 2 as well.. 
+-----------------------===============-
+1.commomon. sh
+2. momgodb. sh
+3. calling common fn and setup remaining things
